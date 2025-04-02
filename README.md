@@ -16,3 +16,5 @@
 🛠 Mejorando mis habilidades en Java,Python,JavaScrpit y CSS.
 
 📬 Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-alejandro-lópez-páez-812a2a30b)
+[![Discord](https://img.shields.io/badge/Discord-Join-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/727273297527570463)
